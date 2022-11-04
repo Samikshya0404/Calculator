@@ -1,0 +1,30 @@
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.exe
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.deps.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.runtimeconfig.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.AssemblyReference.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfoInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfo.cs
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.CoreCompileInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\refint\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.genruntimeconfig.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\ref\Dashain Task.dll
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.exe
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.deps.json
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.runtimeconfig.json
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.dll
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.pdb
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.AssemblyReference.cache
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfoInputs.cache
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfo.cs
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.CoreCompileInputs.cache
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.dll
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\refint\Dashain Task.dll
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.pdb
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.genruntimeconfig.cache
+C:\Users\Samikshya\Documents\Dashain Task\Dashain Task\obj\Debug\net6.0\ref\Dashain Task.dll
